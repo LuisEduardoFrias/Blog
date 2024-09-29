@@ -1,0 +1,24 @@
+:root {
+  --bg-color-: #1f1f1f;
+  
+  --bg-color: #ffffff;
+  --color-p: #000000;
+  --color-s: #19b2ff;
+  --color-t: #595959;
+  
+  --border-color: #7d7d7d;
+  --link-color: var(--color-s)
+}
+
+body:has(#theme-checkbox:checked) {
+  --bg-color: #ffffff;
+  --color-p: #000000;
+  --color-s: #19ff63;
+}
+
+
+/* For SVGs */
+
+svg {
+  fill: var(--color-p) !important;
+}

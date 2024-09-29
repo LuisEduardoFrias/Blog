@@ -1,0 +1,154 @@
+[
+  {
+    "url": null,
+    "name": "home",
+    "rol": "client",
+    "options": [
+      {
+        "url": null,
+        "name": "products 1",
+        "rol": "client",
+        "options": [
+          {
+            "url": "/link",
+            "name": "products 1",
+            "rol": "client",
+            "options": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": null,
+    "name": "products",
+    "rol": "client",
+    "options": [
+      {
+        "url": null,
+        "name": "home 1",
+        "rol": "client",
+        "options": [
+          {
+            "url": "/link",
+            "name": "home21 1",
+            "rol": "client",
+            "options": null
+          },
+          {
+            "url": "/link",
+            "name": "home21 2",
+            "rol": "client",
+            "options": null
+          }
+        ]
+      },
+      {
+        "url": null,
+        "name": "home 2",
+        "rol": "client",
+        "options": [
+          {
+            "url": null,
+            "name": "home2 1",
+            "rol": "client",
+            "options": [
+              {
+                "url": "/link",
+                "name": "home21 1",
+                "rol": "client",
+                "options": null
+              },
+              {
+                "url": "/link",
+                "name": "home21 2",
+                "rol": "client",
+                "options": null
+              }
+            ]
+          },
+          {
+            "url": null,
+            "name": "home2 2",
+            "rol": "client",
+            "options": [
+              {
+                "url": "/link",
+                "name": "home21 1",
+                "rol": "client",
+                "options": null
+              },
+              {
+                "url": "/link",
+                "name": "home21 2",
+                "rol": "client",
+                "options": null
+              }
+            ]
+          },
+          {
+            "url": "/link",
+            "name": "home2 3",
+            "rol": "client",
+            "options": null
+          },
+          {
+            "url": "/link",
+            "name": "home2 4",
+            "rol": "client",
+            "options": null
+          }
+        ]
+      },
+      {
+        "url": "/link",
+        "name": "home 3",
+        "rol": "client",
+        "options": null
+      },
+      {
+        "url": "/",
+        "name": "home 3",
+        "rol": "client",
+        "options": null
+      }
+    ]
+  },
+  {
+    "url": "/home/about",
+    "name": "about",
+    "rol": "client",
+    "options": null
+  },
+  {
+    "url": null,
+    "name": "admin",
+    "rol": "client",
+    "options": [
+      {
+        "url": "/profile",
+        "name": "profile",
+        "rol": "client",
+        "options": null
+      },
+      {
+        "url": "/add-user",
+        "name": "add user",
+        "rol": "client",
+        "options": null
+      }
+    ]
+  },
+  {
+    "url": "/login",
+    "name": "login",
+    "rol": "client",
+    "options": null
+  },
+  {
+    "url": "/home",
+    "name": "logout",
+    "rol": "client",
+    "options": null
+  }
+]
